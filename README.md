@@ -4,10 +4,10 @@ CRUD basico usando Node, Mongoose, e Docker.
 
 ## Rotas no Postman
 > [Download das Rotas](https://run.pstmn.io/button.js)
-#### Recuperar todos os usu�rios
+#### Recuperar todos os usuários
 > GET http://{SEU_IP}:8000/api/pessoa
 
-#### Cadastrar um usu�rio
+#### Cadastrar um usuários
 > POST http://{SEU_IP}:8000/api/pessoa
 
 * Dados passado pelo Body
@@ -19,7 +19,7 @@ CRUD basico usando Node, Mongoose, e Docker.
 }
 ```
 
-#### Editar um usu�rio
+#### Editar um usuários
 > PUT http://{SEU_IP}:8000/api/pessoa{_id}
 
 * Dados passado pelo Body
@@ -30,7 +30,7 @@ CRUD basico usando Node, Mongoose, e Docker.
   "telefone": "(+55) 99 2131-1231"
 }
 ```
-#### Excluir um usu�rio
+#### Excluir um usuários
 > DELETE http://{SEU_IP}:8000/api/pessoa/{_id}
 
 > ![Rotas](https://i.ibb.co/LrJtL6J/Capturar.png)
