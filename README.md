@@ -14,8 +14,8 @@ CRUD basico usando Node, Mongoose, e Docker.
 ```json
 { 
   "nome": "Fulano de Tal",
-  email: "fulanodetal@teste.com",
-  telefone: "(+55) 99 2131-1231"
+  "email": "fulanodetal@teste.com",
+  "telefone": "(+55) 99 2131-1231"
 }
 ```
 
@@ -26,8 +26,8 @@ CRUD basico usando Node, Mongoose, e Docker.
 ```json
 { 
   "nome": "Fulano de Tal",
-  email: "fulanodetal@teste.com",
-  telefone: "(+55) 99 2131-1231"
+  "email": "fulanodetal@teste.com",
+  "telefone": "(+55) 99 2131-1231"
 }
 ```
 #### Excluir um usu�rio
